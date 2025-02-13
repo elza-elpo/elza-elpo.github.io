@@ -1,14 +1,18 @@
-.top{
+#top{
     background-color: #A5BFCC;
 height: 15%;
 }
-.logo {
+#logo {
     height: 100px;
     width: 100px;
 }
 
 .p1{
     background-color: #F4EDD3;
+}
+.b1{
+    height: 500px;
+    width: 500px;
 }
 
 .p2{
