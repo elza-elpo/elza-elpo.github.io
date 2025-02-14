@@ -1,18 +1,28 @@
-#top{
-    background-color: #A5BFCC;
-height: 15%;
+#nav{
+    display:flex;
+  align-items: center;
+  justify-content: space-around;
 }
+
 #logo {
     height: 100px;
     width: 100px;
 }
-
 .p1{
     background-color: #F4EDD3;
 }
+h1{
+    font-family: "Limelight", serif;
+    display: flex;
+    justify-content: center;
+}
+.p1-1{
+    display:flex;
+    justify-content:space-evenly
+}
 .b1{
-    height: 500px;
-    width: 500px;
+    height:250px;
+    width: 250px;
 }
 
 .p2{
@@ -21,12 +31,26 @@ height: 15%;
 
 .p3{
     background-color: #7E99A3;
+    
 }
 .b2{ 
     height:250px;
     width: 250px;
+    display: flex;
+    justify-content: space-around;
+}
+.a{
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
 }
 .bottom{
     background-color: #A5BFCC;
     height: 30%;
+    display: flex;
 }
+.logo2{
+    height: 100px;
+    width: 100px;
+}
+/* font-family:"outfit", serif;  */
