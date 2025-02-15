@@ -2,6 +2,7 @@
     display:flex;
   align-items: center;
   justify-content: space-around;
+  font-family: "Limelight", serif;
 }
 
 #logo {
@@ -46,8 +47,9 @@ h1{
 }
 .bottom{
     background-color: #A5BFCC;
-    height: 30%;
-    display: flex;
+}
+h5{
+    font-family: "Limelight", serif;
 }
 .logo2{
     height: 100px;
