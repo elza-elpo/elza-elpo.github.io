@@ -1,3 +1,4 @@
+.bo{ background-color: #F4EDD3;}
 #nav{
     display:flex;
   align-items: center;
@@ -54,5 +55,9 @@ h5{
 .logo2{
     height: 100px;
     width: 100px;
+}
+.bottom-logo, .bottom-logo img{
+    height: 150px;
+    width: 150px;
 }
 /* font-family:"outfit", serif;  */
