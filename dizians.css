@@ -25,6 +25,7 @@ h1{
 .b1{
     height:250px;
     width: 250px;
+    margin: 20px;
 }
 #pp {
     width: 50%;
@@ -51,6 +52,7 @@ h1{
 }
 .bottom{
     background-color: #A5BFCC;
+    margin-top: 50px;
 }
 h5{
     font-family: "Limelight", serif;
